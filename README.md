@@ -127,8 +127,6 @@ Two things to read off this table:
 |---|---|
 | `similarity.ipynb` | The complete pipeline (the deliverable) |
 | `report.pdf` | Project report |
-| `images/` | Figures (S-curve, candidate-quality histogram, scalability plot) |
-| `README.md` | This file |
 
 ---
 
