@@ -216,3 +216,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Project data artifacts (downloaded/generated, not part of the deliverable)
+arxiv.zip
+arxiv-metadata-oai-snapshot.json
+*.dat
